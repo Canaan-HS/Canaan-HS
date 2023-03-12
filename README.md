@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Canaan-HS&langs_count=7&layout=pie)
+
+![](https://github-readme-stats.vercel.app/api?username=Canaan-HS&theme=radical&show_icons=true&include_all_commits=true&card_width=600px&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged&locale=zh-tw)
+
 <!--
 **Canaan-HS/Canaan-HS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
