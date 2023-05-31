@@ -24,5 +24,5 @@ Visitor Count
 
 ### Tools 🛠️
 
-| [<img src="./Resource/visual-studio-code.svg" alt="VScode" width="24">](https://code.visualstudio.com/) | [<img src="./Resource/git-icon.svg" alt="Git" width="24">](https://git-scm.com/) |
-| :----: | :----: |
+| [<img src="./Resource/visual-studio-code.svg" alt="VScode" width="24">](https://code.visualstudio.com/) | [<img src="./Resource/visual-studio.svg" alt="visual-studio" width="24">](https://visualstudio.microsoft.com/) | [<img src="./Resource/git-icon.svg" alt="Git" width="24">](https://git-scm.com/) | [<img src="./Resource/raspberry-pi.svg" alt="raspberry-pi" width="24">](https://www.raspberrypi.com/) | [<img src="./Resource/ngrok.svg" alt="ngrok" width="24">](https://ngrok.com/) | [<img src="./Resource/xampp.svg" alt="xampp" width="24">](https://www.apachefriends.org/) |
+| :----: | :----: | :----: | :----: | :----: | :----: |
