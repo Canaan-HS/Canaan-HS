@@ -32,20 +32,16 @@
 
 ## :bust_in_silhouette: About Me
 
-- **Embedded Systems & Hardware**
-  With a high school electronics foundation (soldering and oscilloscope skills), I’ve explored Raspberry Pi and Arduino for automation projects and built PCs from scratch—handling assembly, upgrades, and repairs.
-
-- **Reverse Engineering**
-  Exploring binary analysis using tools like Cheat Engine, Resource Hacker, OllyDbg, Exeinfo PE, and Detect It Easy, driven by curiosity about software internals.
-
-- **Web & Desktop Development**
-  Creating practical tools with Python and JavaScript for web enhancements, desktop apps, and automation—using Tampermonkey for scripts (tens of thousands of installs on Greasyfork), Python for apps and crawlers, and PowerShell for utilities.
-
-- **System Diagnostics & Troubleshooting**
-  Experienced in researching and resolving hardware/software issues using PE tools, error codes, and stress tests, with successful hands-on fixes for both system and component problems.
-
-- **Certifications & More**
-  Earned TQC Java and Python certifications early on, now overshadowed by extensive hands-on projects.
+- **Embedded Systems & Hardware**  
+  Explored Raspberry Pi and Arduino from a high school electronics base, plus built and fixed PCs.
+- **Reverse Engineering**  
+  Curious about software internals, tinkering with binary analysis tools.
+- **Web & Desktop Development**  
+  Building tools with Python, JS, and PowerShell for web, desktop, and automation (Greasyfork scripts popular).
+- **System Diagnostics**  
+  Hands-on with hardware/software fixes using various tools and tests.
+- **Certifications**  
+  Got TQC Java and Python certs early, now focused on real projects.
 
 ## :rocket: Featured Projects
 - **[KemerEnhance](https://github.com/Canaan-HS/ProjectsLab/blob/main/JavaScript/Dev/KemerEnhance.js)**
