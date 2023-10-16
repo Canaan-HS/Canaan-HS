@@ -33,17 +33,3 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Canaan-HS&custom_title=Activity%20Record&days=40&height=400&radius=10&theme=dracula&bg_color=17153B&color=E5B8F4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-## :bust_in_silhouette: About Me
-
-- **Embedded Systems & Hardware**  
-  Explored Raspberry Pi and Arduino from a high school electronics base, plus built and fixed PCs.
-- **Reverse Engineering**  
-  Curious about software internals, tinkering with binary analysis tools.
-- **Web & Desktop Development**  
-  Building tools with Python, JS, and PowerShell for web, desktop, and automation (Greasyfork script author).
-- **System Diagnostics**  
-  Hands-on with hardware/software fixes using various tools and tests.
-- **Certifications**  
-  Got TQC Java and Python certs early, now focused on real projects.
----
