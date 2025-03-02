@@ -4,6 +4,9 @@
 
 ---
 
+## :trophy: Achievements
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Canaan-HS&theme=dracula&rank=-?&column=-1&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## :seedling: Currently Learning...
 
 ### Programming Languages 🌐
@@ -34,9 +37,6 @@
   Earned TQC Java and Python certifications early on, now overshadowed by extensive hands-on projects.
 
 ---
-
-## :trophy: Achievements
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Canaan-HS&theme=dracula&rank=-?&column=-1&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## :chart_with_upwards_trend: Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Canaan-HS&custom_title=Activity%20Record&days=40&height=400&radius=10&theme=dracula&bg_color=17153B&color=E5B8F4)](https://github.com/ashutosh00710/github-readme-activity-graph)
