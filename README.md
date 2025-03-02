@@ -1,6 +1,6 @@
 # Hi there, I'm [Canaan-HS](https://github.com/Canaan-HS) :wave:
 
-![Visitor Count](https://profile-counter.glitch.me/Canaan-HS/count.svg)
+<!--![Visitor Count](https://profile-counter.glitch.me/Canaan-HS/count.svg)-->
 
 ---
 
@@ -10,14 +10,26 @@
 ## :seedling: Currently Learning...
 
 ### Programming Languages 🌐
-| [<img src="./Resource/javascript.svg" alt="JavaScript" width="24">](https://javascript.com) | [<img src="./Resource/python.svg" alt="Python" width="24">](https://www.python.org/) | [<img src="./Resource/java.svg" alt="Java" width="24">](https://dev.java/) | [<img src="./Resource/bootstrap.svg" alt="Bootstrap" width="24">](https://getbootstrap.com/) | [<img src="./Resource/jquery.svg" alt="jQuery" width="24">](https://jquery.com/) |
+| [<img src="./Resource/javascript.svg" alt="JavaScript" width="24">]() | [<img src="./Resource/nodejs-icon.svg" alt="Node-Js" width="24">]() | [<img src="./Resource/typescript-icon.svg" alt="TypeScript" width="24">]() | [<img src="./Resource/python.svg" alt="Python" width="24">]() | [<img src="./Resource/java.svg" alt="Java" width="24">]() |
 | :----: | :----: | :----: | :----: | :----: |
-| JavaScript | Python | Java | Bootstrap | jQuery |
+| JavaScript | Node-Js | TypeScript | Python | Java |
+| [<img src="./Resource/c-plusplus.svg" alt="C++" width="24">]() | [<img src="./Resource/html-5.svg" alt="Html" width="24">]() | [<img src="./Resource/css-3.svg" alt="Css" width="24">]() | [<img src="./Resource/jquery.svg" alt="Jquery" width="24">]() | [<img src="./Resource/bootstrap.svg" alt="Bootstrap" width="24">]() |
+|  C++ | Html | Css | Jquery | Bootstrap |
+| [<img src="./Resource/mysql.svg" alt="MySql" width="24">]() | [<img src="./Resource/terminal.svg" alt="Terminal" width="24">]() | [<img src="./Resource" alt="" width="24">]() | [<img src="./Resource" alt="" width="24">]() | [<img src="./Resource" alt="" width="24">]() |
+| MySql | Terminal |  |  |  |
 
 ### Tools 🛠️
-| [<img src="./Resource/visual-studio-code.svg" alt="VS Code" width="24">](https://code.visualstudio.com/) | [<img src="./Resource/visual-studio.svg" alt="Visual Studio" width="24">](https://visualstudio.microsoft.com/) | [<img src="./Resource/git-icon.svg" alt="Git" width="24">](https://git-scm.com/) | [<img src="./Resource/raspberry-pi.svg" alt="Raspberry Pi" width="24">](https://www.raspberrypi.com/) | [<img src="./Resource/xampp.svg" alt="XAMPP" width="24">](https://www.apachefriends.org/) |
+| [<img src="./Resource/adobe-dreamweaver.svg" alt="Dreamweaver" width="24">]() | [<img src="./Resource/adobe-illustrator.svg" alt="Illustrator" width="24">]() | [<img src="./Resource/adobe-photoshop.svg" alt="Photoshop" width="24">]() | [<img src="./Resource/visual-studio-code.svg" alt="VS Code" width="24">]() | [<img src="./Resource/visual-studio.svg" alt="Visual Studio" width="24">]() |
 | :----: | :----: | :----: | :----: | :----: |
-| VS Code | Visual Studio | Git | Raspberry Pi | XAMPP |
+| Dreamweaver | Illustrator | Photoshop | VS Code | Visual Studio |
+| [<img src="./Resource/claude.svg" alt="Claude" width="24">]() | [<img src="./Resource/google-gemini.svg" alt="Gemini" width="24">]() | [<img src="./Resource/openai-icon.svg" alt="Openai" width="24">]() | [<img src="./Resource/perplexity.svg" alt="Perplexity" width="24">]() | [<img src="./Resource/conda.svg" alt="Conda" width="24">]() |
+| Claude | Gemini | Openai | Perplexity | Conda |
+| [<img src="./Resource/docker-icon.svg" alt="Docker" width="24">]() | [<img src="./Resource/ffmpeg-icon.svg" alt="ffmpeg" width="24">]() | [<img src="./Resource/firebase.svg" alt="Firebase" width="24">]() | [<img src="./Resource/git-icon.svg" alt="Git" width="24">]() | [<img src="./Resource/hugging-face-icon.svg" alt="Hugging" width="24">]() |
+| Docker | ffmpeg | Firebase | Git | Hugging |
+| [<img src="./Resource/npm-icon.svg" alt="Npm" width="24">]() | [<img src="./Resource/aws.svg" alt="Aws" width="24">]() | [<img src="./Resource/pytorch-icon.svg" alt="Pytorch" width="24">]() | [<img src="./Resource/raspberry-pi.svg" alt="Raspberry-Pi" width="24">]() | [<img src="./Resource/sqlite.svg" alt="SqLite" width="24">]() |
+| Npm | Aws | Pytorch | Raspberry-Pi | SqLite |
+| [<img src="./Resource/vmware.svg" alt="Vmware" width="24">]() | [<img src="./Resource/vulkan.svg" alt="Vulkan" width="24">]() | [<img src="./Resource/xampp.svg" alt="Xampp" width="24">]() | [<img src="./Resource" alt="" width="24">]() | [<img src="./Resource" alt="" width="24">]() |
+| Vmware | Vulkan | Xampp |  |  |
 
 ---
 
