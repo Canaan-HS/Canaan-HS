@@ -1,6 +1,6 @@
 # Hi there, I'm [Canaan-HS](https://github.com/Canaan-HS) :wave:
 
-<!--![Visitor Count](https://profile-counter.glitch.me/Canaan-HS/count.svg)-->
+![Visitor Count](https://profile-counter.glitch.me/Canaan-HS/count.svg)
 
 ---
 
