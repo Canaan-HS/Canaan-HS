@@ -41,7 +41,7 @@
 - **Reverse Engineering**  
   Curious about software internals, tinkering with binary analysis tools.
 - **Web & Desktop Development**  
-  Building tools with Python, JS, and PowerShell for web, desktop, and automation (Greasyfork scripts popular).
+  Building tools with Python, JS, and PowerShell for web, desktop, and automation (Greasyfork script author).
 - **System Diagnostics**  
   Hands-on with hardware/software fixes using various tools and tests.
 - **Certifications**  
