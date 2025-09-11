@@ -1,7 +1,5 @@
 # Hi there, I'm [Canaan-HS](https://github.com/Canaan-HS) :wave:
 
-![Visitor Count](https://profile-counter.glitch.me/Canaan-HS/count.svg)
-
 ---
 
 ## :trophy: Achievements
@@ -26,7 +24,7 @@
 ---
 
 ## :bar_chart: Stats
-| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Canaan-HS&langs_count=7&locale=en&layout=pie&bg_color=17153B&border_color=433D8B&title_color=6D67E4&text_color=E5B8F4)](https://github.com/anuraghazra/github-readme-stats) | [![Stats](https://github-readme-stats.vercel.app/api?username=Canaan-HS&show_icons=true&include_all_commits=true&show=reviews,prs_merged&locale=en&card_width=650px&bg_color=17153B&border_color=433D8B&title_color=6D67E4&text_color=E5B8F4)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Canaan-HS&langs_count=7&locale=en&layout=pie&bg_color=17153B&border_color=433D8B&title_color=6D67E4&text_color=E5B8F4)](https://github.com/anuraghazra/github-readme-stats) | [![Stats](https://github-readme-stats.vercel.app/api?username=Canaan-HS&show_icons=true&include_all_commits=true&locale=en&card_width=650px&bg_color=17153B&border_color=433D8B&title_color=6D67E4&text_color=E5B8F4)](https://github.com/anuraghazra/github-readme-stats) |
 | :----: | :----: |
 
 ## :chart_with_upwards_trend: Activity
