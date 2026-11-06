@@ -10,14 +10,10 @@
 
 <br/>
 
-<a href="https://github.com/Canaan-HS">
-  <img src="https://img.shields.io/badge/GitHub-Canaan--HS-6B4DE6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/GitHub-Canaan--HS-6B4DE6?style=for-the-badge&logo=github&logoColor=white"/>
 <a href="https://greasyfork.org/users/989635">
   <img src="https://img.shields.io/badge/Greasy%20Fork-Userscripts-9A5CF4?style=for-the-badge&logo=tampermonkey&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/github/followers/Canaan-HS?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6B4DE6&labelColor=17153B"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCanaan-HS&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&logoColor=white&color=9A5CF4&labelColor=17153B"/>
 
 </div>
 
