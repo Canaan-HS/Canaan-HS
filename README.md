@@ -1,19 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B4DE6,50:9A5CF4,100:E5B8F4&height=200&section=header&text=Canaan-HS&fontColor=ffffff&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Automation%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
+# Canaan-HS
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E5B8F4&center=true&vCenter=true&random=false&width=650&lines=JavaScript+%7C+Python+%7C+Java+%7C+TypeScript;Node.js+%7C+Vue+%7C+React+%7C+.NET;Building+Tools+That+Make+Life+Easier;Always+Learning%2C+Always+Creating)](https://git.io/typing-svg)
+### Full Stack Developer &nbsp;|&nbsp; Automation Enthusiast
+
+<a href="https://github.com/Canaan-HS/Canaan-HS">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=9A5CF4&center=true&vCenter=true&width=650&lines=JavaScript+%7C+TypeScript+%7C+Python+%7C+Java;Node.js+%7C+Vue+%7C+React+%7C+.NET;Building+Tools+That+Make+Life+Easier;Always+Learning%2C+Always+Creating" alt="JavaScript | TypeScript | Python | Java · Node.js | Vue | React | .NET"/>
+</a>
+
+<br/>
 
 <a href="https://github.com/Canaan-HS">
   <img src="https://img.shields.io/badge/GitHub-Canaan--HS-6B4DE6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://greasyfork.org/users/989635">
-  <img src="https://img.shields.io/badge/GreasyFork-Scripts-9A5CF4?style=for-the-badge&logo=tampermonkey&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Greasy%20Fork-Userscripts-9A5CF4?style=for-the-badge&logo=tampermonkey&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Canaan-HS&style=for-the-badge&color=6B4DE6&label=PROFILE+VIEWS">
+<img src="https://img.shields.io/github/followers/Canaan-HS?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6B4DE6&labelColor=17153B"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCanaan-HS&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&logoColor=white&color=9A5CF4&labelColor=17153B"/>
 
 </div>
 
@@ -21,9 +25,14 @@
 
 <div align="center">
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
-[![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=Canaan-HS&theme=dracula&margin-w=12&margin-h=12&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/Canaan-HS">
+  <img height="195" src="https://github-stats-extended.vercel.app/api?username=Canaan-HS&show_icons=true&theme=dracula&bg_color=17153B&border_color=6B4DE6&title_color=E5B8F4&text_color=C9B6F2&icon_color=9A5CF4&border_radius=12" alt="GitHub stats"/>
+</a>
+<a href="https://github.com/Canaan-HS?tab=repositories">
+  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=Canaan-HS&layout=compact&langs_count=8&theme=dracula&bg_color=17153B&border_color=6B4DE6&title_color=E5B8F4&text_color=C9B6F2&icon_color=9A5CF4&border_radius=12" alt="Top languages"/>
+</a>
 
 </div>
 
@@ -33,123 +42,80 @@
 
 ## 📚 Learning & Exploring Tech Stack
 
-### 🚀 Programming Languages
+### 🚀 Languages
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,cpp,cs,php,html,css,bash,powershell&theme=dark&perline=13" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,go,rust,cs,cpp,bash,powershell,html,css&theme=dark&perline=12" />
 
-### 🎨 Frontend & Frameworks
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=vue,react,nextjs,electron,vite,bootstrap,jquery&theme=dark&perline=12" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,vite,electron&theme=dark&perline=7" />
 
-### ⚙️ Backend & Runtime
+### ⚙️ Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,django,flask,fastapi,nestjs&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django,spring,dotnet,graphql&theme=dark&perline=7" />
 
-### 🗄️ Database & Storage
+### 🗄️ Database & Messaging
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,sqlite,supabase,elasticsearch,kafka&theme=dark&perline=8" />
 
-### 🤖 AI & Machine Learning
+### 🤖 AI & LLM Engineering
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=4" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white"/>
-<img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Stable%20Diffusion-FF6F00?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white"/>
-<img src="https://img.shields.io/badge/ComfyUI-2B2B2B?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/LM%20Studio-4A90A4?style=for-the-badge&logo=ai&logoColor=white"/>
-
-### 🛠️ DevOps & Build Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,nginx,vercel,cmake,npm,pnpm,anaconda&theme=dark&perline=15" />
-
-### 💻 IDEs & Editors
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,webstorm,pycharm,neovim,sublime&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark&perline=2" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Windsurf-00D4AA?style=for-the-badge&logo=codeium&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-6B4DE6?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20%26%20Agents-9A5CF4?style=for-the-badge"/>
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel,terraform,docker,kubernetes,nginx,linux,grafana,prometheus&theme=dark&perline=12" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,npm,pnpm&theme=dark&perline=5" />
+
+### 💻 Editors & AI-Assisted Dev
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,neovim&theme=dark&perline=5" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zed&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
-### 🔬 Reverse Engineering & Debugging
+### 🤖 Automation & Testing
 
-<img src="https://img.shields.io/badge/x64dbg-000000?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Userscripts-9A5CF4?style=for-the-badge&logo=tampermonkey&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white"/>
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+
+### 🔬 Security & Reverse Engineering
+
 <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white"/>
 <img src="https://img.shields.io/badge/IDA%20Pro-4B0082?style=for-the-badge&logo=ida&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cutter-000000?style=for-the-badge&logo=radare&logoColor=white"/>
-<img src="https://img.shields.io/badge/OllyDbg-003366?style=for-the-badge&logo=ollydbg&logoColor=white"/>
-<img src="https://img.shields.io/badge/dnSpy-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cheat%20Engine-1E90FF?style=for-the-badge&logo=cheatengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/x64dbg-000000?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Frida-FF6600?style=for-the-badge&logo=frida&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fiddler-26BF64?style=for-the-badge&logo=fiddler&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Process%20Hacker-1E90FF?style=for-the-badge&logo=windows&logoColor=white"/>
 
-### 🖥️ Systems & Platforms
+### 🖥️ Systems & Tools
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,raspberrypi,apple&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple,raspberrypi,figma,postman,notion,obsidian&theme=dark&perline=9" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-<img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-
-### 🔧 Productivity & Other Tools
-
-<img src="https://skillicons.dev/icons?i=figma,postman,notion,obsidian,regex&theme=dark&perline=5" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white"/>
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
-<img src="https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-<img src="https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Canaan-HS&show_icons=true&theme=dracula&bg_color=17153B&border_color=6B4DE6&title_color=E5B8F4&text_color=C9B6F2&icon_color=9A5CF4&border_radius=12"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Canaan-HS&layout=compact&langs_count=8&theme=dracula&bg_color=17153B&border_color=6B4DE6&title_color=E5B8F4&text_color=C9B6F2&border_radius=12"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Canaan-HS&theme=dracula&bg_color=17153B&color=E5B8F4&line=9A5CF4&point=6B4DE6&area=true&area_color=6B4DE6&hide_border=true&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B4DE6,50:9A5CF4,100:E5B8F4&height=120&section=footer" width="100%"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 
 </div>
